@@ -1,0 +1,11 @@
+id,name,email,income,departamentId
+1,Ana Silva,ana.silva@email.com,3500,1
+2,Bruno Santos,bruno.santos@email.com,4200,2
+3,Carla Oliveira,carla.oliveira@email.com,5100,1
+4,Daniel Pereira,daniel.pereira@email.com,2800,3
+5,Eduardo Costa,eduardo.costa@email.com,6000,2
+6,Fernanda Lima,fernanda.lima@email.com,4700,4
+7,Gabriel Rocha,gabriel.rocha@email.com,3900,1
+8,Helena Martins,helena.martins@email.com,7200,3
+9,Igor Almeida,igor.almeida@email.com,3300,2
+10,Juliana Torres,juliana.torres@email.com,5500,4
